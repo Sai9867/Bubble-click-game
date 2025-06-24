@@ -9,7 +9,7 @@ let score = 0;
 
 function bubblemaker(){
   let clutter ="";
-for( let i = 0; i<168; i++){
+for( let i = 0; i<96; i++){
   let num = Math.floor((Math.random()*10))
   clutter = clutter + `<div class="bubble">${num}</div>`
 }
