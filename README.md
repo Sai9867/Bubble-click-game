@@ -11,12 +11,12 @@ A simple, fun browser-based number matching game built using **HTML**, **CSS**, 
 3. Click on the bubbles matching the target number.
 4. Each correct match gives you **+10 points**.
 5. The game ends when the **timer hits 0**.
-
+link https://bubble-click-game.netlify.app/
 ---
 
 ## 📸 Screenshots
 
-*Coming soon* – Add screenshots or a GIF of your game here!
+
 
 ---
 
